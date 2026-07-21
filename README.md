@@ -1,6 +1,5 @@
 ![Header](./github-header-ban.png)
-# <h1 align="center">Hey, I'm Prathvish Singh Yadav</h1>
-# <h3 align="center">A passionate developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typical001&label=Profile%20views&color=0e75b6&style=flat" alt="typical001" /> </p>
